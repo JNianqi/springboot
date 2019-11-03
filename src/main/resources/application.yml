@@ -1,0 +1,4 @@
+server:
+  port: 8080
+name: 江年旗
+age: 22
